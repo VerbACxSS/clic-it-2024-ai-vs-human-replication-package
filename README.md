@@ -41,7 +41,7 @@ This contribution is a result of the research conducted within the framework of 
 ```
 @inproceedings{russodivito2024ai,
   title={AI vs. Human: Effectiveness of LLMs in Simplifying Italian Administrative Documents},
-  author={Russodivito, Marco and Ganfi, Vittorio and Fiorentino, Giuliana and Oliveto, Rocco and others},
+  author={Russodivito, Marco and Ganfi, Vittorio and Fiorentino, Giuliana and Oliveto, Rocco},
   booktitle={Proceedings of the Tenth Italian Conference on Computational Linguistics (CLiC-it 2024)}
   year={2024},
 }

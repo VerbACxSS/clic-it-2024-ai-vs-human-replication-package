@@ -40,10 +40,10 @@ This contribution is a result of the research conducted within the framework of 
 ## How to cite us
 ```
 @inproceedings{russodivito2024ai,
-	title={AI vs. Human: Effectiveness of LLMs in Simplifying Italian Administrative Documents},
+  title={AI vs. Human: Effectiveness of LLMs in Simplifying Italian Administrative Documents},
   author={Russodivito, Marco and Ganfi, Vittorio and Fiorentino, Giuliana and Oliveto, Rocco and others},
   booktitle={Proceedings of the Tenth Italian Conference on Computational Linguistics (CLiC-it 2024)}
-	year={2024},
+  year={2024},
 }
-````
+```
 Please contact Marco Russodivito (marco.russodivito@unimol.it) for details.

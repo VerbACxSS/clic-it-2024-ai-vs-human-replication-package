@@ -20,10 +20,10 @@ pip install -r requirements.txt
 ```
 
 ## Replication Package Content
-* `s_itaist_corpus`: folder containing the original documents of the s-ItaIst corpus
+* `s_itaist_corpus`: folder that contains the original documents of the s-ItaIst corpus
   * `{document_id}.pdf`: original document
   * `{document_id}.md`: extracted texts
-* `simplified_corpora`: is a folder containing all the s-ItaIst parallel corpora. Each .csv file contains:
+* `simplified_corpora`: folder that contains all the s-ItaIst parallel corpora. Each .csv file contains:
   * `document`: document identifier
   * `paragraph_index`: sequential number in relation to the original document
   * `original_text`: plain text of the original paragraph

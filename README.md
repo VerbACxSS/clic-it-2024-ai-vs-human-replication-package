@@ -48,9 +48,9 @@ Marco Russodivito, Vittorio Ganfi, Giuliana Fiorentino, and Rocco Oliveto (2024)
 
 ```bibtex
 @inproceedings{russodivito2024ai,
-  title={AI vs. Human: Effectiveness of LLMs in Simplifying Italian Administrative Documents},
-  author={Russodivito, Marco AND Ganfi, Vittorio AND Fiorentino, Giuliana AND Oliveto, Rocco},
-  booktitle={Proceedings of the Tenth Italian Conference on Computational Linguistics (CLiC-it 2024)}
-  year={2024},
+  title     = {AI vs. Human: Effectiveness of LLMs in Simplifying Italian Administrative Documents},
+  author    = {Russodivito, Marco AND Ganfi, Vittorio AND Fiorentino, Giuliana AND Oliveto, Rocco},
+  booktitle = {Proceedings of the Tenth Italian Conference on Computational Linguistics (CLiC-it 2024)}
+  year      = {2024},
 }
 ```
